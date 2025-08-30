@@ -1,4 +1,4 @@
-# ➕ Operacao_com_Matrizes_e_Threads
+# ➕ Operacao com Matrizes e Threads
 
 Aplicação multithread que calcula a soma de cada linha de uma matriz 3x5 com números aleatórios usando threads separadas.
 
